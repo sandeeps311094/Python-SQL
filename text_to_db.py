@@ -189,15 +189,3 @@ if __name__ == "__main__":
 
 #	--------------------------------------------
 
-	'''
-	Number - 0 1 2 3 4 5 6 7 8 9 - INT
-	Varchar - q r ; r t          - VARCHAR
-	'''
-'''
-
-1. Proof of Photo	- PASSPORT COPY
-2. Proof of address     - BANK STSTEMENT
-3. Proof of activity    - BANK STSTEMENT
-4. Proof of NZ bank act - BANK STATEMENT
-
-'''
